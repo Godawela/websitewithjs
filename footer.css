@@ -1,0 +1,84 @@
+.footer {
+    display: block;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.797);
+    position: relative;
+    display: inline-block;
+}
+
+.footer .column {
+    width: 25%;
+    padding: 30px;
+}
+
+.footer .logo {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.footer li {
+    list-style-type: none;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+.footer .cont {
+    color: lightseagreen;
+    text-align: left;
+}
+
+.footer .contli {
+    color: lightseagreen;
+    text-align: left;
+    text-decoration: none;
+}
+
+.footer .contli:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.footer .phn {
+    color: white;
+    text-align: left;
+}
+
+.footer .phnum {
+    text-align: left;
+}
+
+.footer .row {
+    display: inline-flex;
+    padding: 10px 60px 10px 60px;
+    margin: 0;
+}
+
+.footer .date1 {
+    color: white;
+}
+
+.footer2 {
+    display: block;
+    top: 0;
+    width: 100%;
+    background-color:rgb(86, 80, 80);
+    position: relative;
+    display: inline-block;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+.footer2 p{
+    text-align: left;
+    color: rgba(255, 255, 255, 0.793);
+    padding-left: 150px;
+   
+}
+
+#lh{
+ line-height: 1.8;
+}
